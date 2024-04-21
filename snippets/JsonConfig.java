@@ -110,3 +110,14 @@ public class JsonConfig {
         }
     }
 }
+
+
+/*
+example json:
+```json
+{
+  "message": "hi i am really cool!"
+}```
+
+put in a file called "config.json" in your resources folder.
+*/
